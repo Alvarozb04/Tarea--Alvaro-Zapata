@@ -110,4 +110,4 @@ transferir_producto("Pasta Integral", 10, "Estantería D", "Estantería B")
 # Estanteria con mayor valor y con menor
 estanteria_mayor_valor_menos_productos()
 
-    
+
